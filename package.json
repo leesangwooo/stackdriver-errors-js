@@ -7,7 +7,8 @@
     "test": "gulp",
     "dist": "gulp dist",
     "lint": "gulp lint",
-    "start": "gulp min-demo"
+    "start": "gulp min-demo",
+    "for-git-test": "nothing"
   },
   "repository": {
     "type": "git",
